@@ -24,10 +24,11 @@ jobs:
         uses: gradle/actions/setup-gradle@v3
 
       - name: Build with Gradle
+        working-directory: jjk_domains
         run: gradle build
 
       - name: Upload JAR artifact
         uses: actions/upload-artifact@v4
         with:
           name: jjk-domains-mod
-          path: build/libs/*.jar
+          path: jjk_domains/build/libs/*.jar
