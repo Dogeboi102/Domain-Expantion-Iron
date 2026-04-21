@@ -1,0 +1,18 @@
+{
+  "spell.jjkdomains.infinite_void": "Infinite Void",
+  "spell.jjkdomains.infinite_void.desc": "Opens the Domain Expansion: Infinite Void. All players within range are rendered completely immobile, flooded with infinite information they cannot process.",
+
+  "spell.jjkdomains.malevolent_shrine": "Malevolent Shrine",
+  "spell.jjkdomains.malevolent_shrine.desc": "Opens the Domain Expansion: Malevolent Shrine. Dismembering slashes tear through all players within the domain, dealing continuous cutting damage.",
+
+  "spell.jjkdomains.deadly_sentencing": "Deadly Sentencing",
+  "spell.jjkdomains.deadly_sentencing.desc": "Opens the Domain Expansion: Deadly Sentencing. All players are brought before the court. The judge renders a verdict — GUILTY grants the caster a single death blow sword and drains all mana from the condemned.",
+
+  "spell.jjkdomains.coffin_of_iron_mountain": "Coffin of the Iron Mountain",
+  "spell.jjkdomains.coffin_of_iron_mountain.desc": "Opens the Domain Expansion: Coffin of the Iron Mountain. Scorching heat and crushing pressure deals massive fire damage and inflicts Weakness on all players within the domain. Fire Resistance negates all effects.",
+
+  "item.jjkdomains.guilty_verdict_sword": "Verdict: Guilty",
+
+  "effect.jjkdomains.infinite_void_effect": "Infinite Void",
+  "effect.jjkdomains.malevolent_shrine_effect": "Malevolent Shrine"
+}
