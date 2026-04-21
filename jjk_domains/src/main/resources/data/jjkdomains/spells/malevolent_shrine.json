@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "minRarity": 3,
+  "maxLevel": 5,
+  "manaCostPerLevel": 15,
+  "baseManaCost": 50,
+  "spellPowerPerLevel": 6,
+  "baseSpellPower": 12,
+  "cooldownSeconds": 30,
+  "castTime": 30
+}
